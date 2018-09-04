@@ -1,0 +1,23 @@
+{
+  "name": "chainverif-strings",
+  "version": "1.0.0",
+  "description": "Package of rules used to verify strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Westixy/ChainVerif-Strings.git"
+  },
+  "keywords": [
+    "ChainVerif",
+    "verifier"
+  ],
+  "author": "Westixy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Westixy/ChainVerif-Strings/issues"
+  },
+  "homepage": "https://github.com/Westixy/ChainVerif-Strings#readme"
+}
